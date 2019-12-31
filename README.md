@@ -1,3 +1,5 @@
 # portofolio-microproject
 HTML, JavaScript,CSS 
-front-end developer
+JavaScript for page transitions and effects
+Front-end Developer
+
